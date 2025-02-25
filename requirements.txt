@@ -1,0 +1,5 @@
+openai
+pydub
+moviepy
+srt
+streamlit
